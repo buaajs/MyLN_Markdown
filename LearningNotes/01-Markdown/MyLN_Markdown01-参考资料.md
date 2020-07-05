@@ -62,7 +62,7 @@
 | 网址                                         | 说明               |
 | -------------------------------------------- | ------------------ |
 | http://www.vfmd.org/                         | VFMD Website       |
-| https://github.com/vfmd                      | VFMD Github        |
+| https://github.com/vfmd                      | VFMD GitHub        |
 | http://www.vfmd.org/vfmd-spec/specification/ | VFMD Specification |
 | https://github.com/vfmd/vfmd-src             | VFMD Code          |
 
@@ -98,13 +98,20 @@
 | ------------------------------------------------------------ | -------------------------- |
 | https://en.wikipedia.org/wiki/LaTeX<br />https://zh.wikipedia.org/wiki/LaTeX | WikiPedia上LaTeX中英文词条 |
 | https://www.latex-project.org/                               | LaTeX Website              |
-| https://katex.org/                                           | LaTeX Website              |
-| https://katex.org/docs/                                      | LaTeX Documentation        |
-| https://github.com/KaTeX/KaTeX                               | LaTeX Github               |
+| https://github.com/latex3/latex2e                            | LaTeX GitHub               |
 
 ----
 
-### 1.9 mhchem
+### 1.9 KaTeX
+
+| 网址                                                         | 说明                       |
+| ------------------------------------------------------------ | -------------------------- |
+| https://en.wikipedia.org/wiki/LaTeX<br />https://zh.wikipedia.org/wiki/LaTeX | WikiPedia上KaTeX中英文词条 |
+| https://katex.org/                                           | KaTeX Website              |
+| https://katex.org/docs/                                      | KaTeX Documentation        |
+| https://github.com/KaTeX/KaTeX                               | KaTeX GitHub               |
+
+### 1.10 mhchem
 
 | 网址                                                         | 说明                            |
 | ------------------------------------------------------------ | ------------------------------- |
